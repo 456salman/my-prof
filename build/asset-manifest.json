@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-prof/static/css/main.31074c27.css",
+    "main.js": "/my-prof/static/js/main.9d06bceb.js",
+    "static/media/digital-marketing-meeting.jpg": "/my-prof/static/media/digital-marketing-meeting.c672fcf0b6bd0c33ff16.jpg",
+    "static/media/lolol.PNG": "/my-prof/static/media/lolol.a89178f3a407dfaa6e5e.PNG",
+    "index.html": "/my-prof/index.html",
+    "main.31074c27.css.map": "/my-prof/static/css/main.31074c27.css.map",
+    "main.9d06bceb.js.map": "/my-prof/static/js/main.9d06bceb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31074c27.css",
+    "static/js/main.9d06bceb.js"
+  ]
+}
