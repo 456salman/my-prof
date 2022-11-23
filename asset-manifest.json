@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-prof/static/css/main.31074c27.css",
-    "main.js": "/my-prof/static/js/main.1ca3d123.js",
+    "main.css": "/my-prof/static/css/main.27cbb285.css",
+    "main.js": "/my-prof/static/js/main.2ec23e2f.js",
     "static/media/digital-marketing-meeting.jpg": "/my-prof/static/media/digital-marketing-meeting.c672fcf0b6bd0c33ff16.jpg",
     "static/media/avatar.PNG": "/my-prof/static/media/avatar.95c487b695ec41c969ff.PNG",
     "static/media/resumee.png": "/my-prof/static/media/resumee.9d8ac1fd2ca597dad9c3.png",
@@ -9,11 +9,11 @@
     "static/media/lolol.PNG": "/my-prof/static/media/lolol.a89178f3a407dfaa6e5e.PNG",
     "static/media/motivate.png": "/my-prof/static/media/motivate.66da5d072865cefa084d.png",
     "index.html": "/my-prof/index.html",
-    "main.31074c27.css.map": "/my-prof/static/css/main.31074c27.css.map",
-    "main.1ca3d123.js.map": "/my-prof/static/js/main.1ca3d123.js.map"
+    "main.27cbb285.css.map": "/my-prof/static/css/main.27cbb285.css.map",
+    "main.2ec23e2f.js.map": "/my-prof/static/js/main.2ec23e2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.31074c27.css",
-    "static/js/main.1ca3d123.js"
+    "static/css/main.27cbb285.css",
+    "static/js/main.2ec23e2f.js"
   ]
 }
