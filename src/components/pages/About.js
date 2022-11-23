@@ -8,7 +8,7 @@ export default function Home() {
 
       <p>
       hi my name is salman and i am trying to pe a programmer. before i took this calss i was a machanic at a shop 
-      and i loved to try things out 
+      and i loved to try things out. i learned alot of things that will be usful in the future
       </p>
     </div>
   );

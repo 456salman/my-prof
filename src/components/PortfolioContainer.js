@@ -4,6 +4,8 @@ import About from './pages/About';
 import Project from './pages/Projects';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
+import github from '../../src/photo/github.png'
+import linkin from '../../src/photo/linkedin.png'
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -30,7 +32,8 @@ export default function PortfolioContainer() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
       {renderPage()}
-
+        <footer><a href='https://github.com/456salman?tab=repositories'><img  src={github} /></a>
+        <a href='https://www.linkedin.com/in/salman-alamin-16320a167/'><img  src={linkin} /></a></footer>
     </div>
   );
 }
