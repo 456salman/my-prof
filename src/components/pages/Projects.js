@@ -2,6 +2,7 @@
 import React from 'react';
 import photo1 from '../../photo/lolol.PNG'
 import photo2 from '../../photo/digital-marketing-meeting.jpg'
+import photo3 from '../../photo/motivate.png'
 export default function About() {
   const projects =[
     {
@@ -9,6 +10,8 @@ export default function About() {
     },
     {
       img: photo2, link:"https://456salman.github.io/challenge-01/", text: 'challenge 1' 
+    },{
+      img: photo3, link:"https://esrawameed.github.io/Motivation-Locale/index.html", text: 'motivation project' 
     }
   ]
   return (
