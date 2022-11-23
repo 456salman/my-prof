@@ -6,6 +6,7 @@ import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import github from '../../src/photo/github.png'
 import linkin from '../../src/photo/linkedin.png'
+import insta from '../../src/photo/instagram.png'
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -33,7 +34,8 @@ export default function PortfolioContainer() {
       {/* Here we are calling the renderPage method which will return a component  */}
       {renderPage()}
         <footer><a href='https://github.com/456salman?tab=repositories'><img  src={github} /></a>
-        <a href='https://www.linkedin.com/in/salman-alamin-16320a167/'><img  src={linkin} /></a></footer>
+        <a href='https://www.linkedin.com/in/salman-alamin-16320a167/'><img  src={linkin} /></a>
+        <a href='https://www.instagram.com/'><img  src={insta} /></a></footer>
     </div>
   );
 }
