@@ -3,6 +3,9 @@ import React from 'react';
 import photo1 from '../../photo/lolol.PNG'
 import photo2 from '../../photo/digital-marketing-meeting.jpg'
 import photo3 from '../../photo/motivate.png'
+import photo4 from '../../photo/sched.png'
+import photo5 from '../../photo/weather.png'
+import photo6 from '../../photo/notes.png'
 export default function About() {
   const projects =[
     {
@@ -10,8 +13,18 @@ export default function About() {
     },
     {
       img: photo2, link:"https://456salman.github.io/challenge-01/", text: 'challenge 1' 
-    },{
+    },
+    {
       img: photo3, link:"https://esrawameed.github.io/Motivation-Locale/index.html", text: 'motivation project' 
+    },
+    {
+      img: photo4, link:"https://456salman.github.io/schedudler/", text: 'schedudler' 
+    },
+    {
+      img: photo5, link:"https://456salman.github.io/weather/", text: 'weather API' 
+    },
+    {
+      img: photo6, link:"https://456salman.github.io/notesss/", text: 'weather API' 
     }
   ]
   return (
