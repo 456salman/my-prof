@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-prof/static/css/main.27cbb285.css",
-    "main.js": "/my-prof/static/js/main.d4b19a55.js",
+    "main.js": "/my-prof/static/js/main.95424463.js",
     "static/media/digital-marketing-meeting.jpg": "/my-prof/static/media/digital-marketing-meeting.c672fcf0b6bd0c33ff16.jpg",
     "static/media/avatar.PNG": "/my-prof/static/media/avatar.95c487b695ec41c969ff.PNG",
     "static/media/resumee.png": "/my-prof/static/media/resumee.9d8ac1fd2ca597dad9c3.png",
@@ -14,10 +14,10 @@
     "static/media/instagram.png": "/my-prof/static/media/instagram.9c68f2cba339cb0d1068.png",
     "index.html": "/my-prof/index.html",
     "main.27cbb285.css.map": "/my-prof/static/css/main.27cbb285.css.map",
-    "main.d4b19a55.js.map": "/my-prof/static/js/main.d4b19a55.js.map"
+    "main.95424463.js.map": "/my-prof/static/js/main.95424463.js.map"
   },
   "entrypoints": [
     "static/css/main.27cbb285.css",
-    "static/js/main.d4b19a55.js"
+    "static/js/main.95424463.js"
   ]
 }

@@ -6,6 +6,7 @@ import photo3 from '../../photo/motivate.png'
 import photo4 from '../../photo/sched.png'
 import photo5 from '../../photo/weather.png'
 import photo6 from '../../photo/notes.png'
+import photo7 from '../../photo/pokemon-shop.PNG'
 export default function About() {
   const projects =[
     {
@@ -24,7 +25,10 @@ export default function About() {
       img: photo5, link:"https://456salman.github.io/weather/", text: 'weather API' 
     },
     {
-      img: photo6, link:"https://456salman.github.io/notesss/", text: 'weather API' 
+      img: photo6, link:"https://456salman.github.io/notesss/", text: 'notes maker' 
+    },
+    {
+      img: photo7, link:"https://poke-shop00.herokuapp.com/Home", text: 'pokemon shop' 
     }
   ]
   return (
